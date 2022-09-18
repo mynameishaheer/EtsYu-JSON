@@ -1,0 +1,51 @@
+{
+    "challenges": {
+        "challenge": [
+            {
+                "_id": {
+                    "$oid": "63276c42dc4a000c71ccc8e5"
+                },
+                "challenge_id": {
+                    "$oid": "632768dda55ceac2e849a22e"
+                },
+                "desc": "Brush your teeth with the opposite end of your toothbrush",
+                "date_added": {
+                    "$date": {
+                        "$numberLong": "1657497600000"
+                    }
+                },
+                "total_accepted": {
+                    "$numberInt": "10"
+                },
+                "total_completed": {
+                    "$numberInt": "2"
+                },
+                "sucessrate": {
+                    "$numberDouble": "0.2"
+                },
+                "points": {
+                    "$numberDouble": "80.0"
+                },
+                "creatorID": {
+                    "$oid": "63276a28a55ceac2e849a232"
+                },
+                "trophieID ": {
+                    "$oid": "63276a3ea55ceac2e849a233"
+                },
+                "difficulty": "easy",
+                "acceptance_criteria": {
+                    "votes_needed": {
+                        "$numberInt": "50"
+                    },
+                    "win_%_needed": {
+                        "$numberInt": "80"
+                    },
+                    "time_to_complete_hrs": {
+                        "$numberInt": "2"
+                    },
+                    "additional_req": "A 1 min video is needed to qualify fo r this badge"
+                }
+            }
+        ]
+    }
+}
