@@ -1,25 +1,31 @@
 {
-  "_id":{
-    "$oid":"6327612363657e04e395899d"
-    },
-  "email":"shaheer.ahmed12@gmail.com",
-  "follower_count":{
-    "$numberInt":"45"
-    },
-  "following_count":{
-    "$numberInt":"40"
-    },
-  "join_date":{
-    "$date":{
-      "$numberLong":"1652313600000"
-      }
-    },
-  "phone":"0343-5301300",
-  "private":false,
-  "status":"active",
-  "string bio":"Hey! I am Shaheer Ahmed and I am the greatest programmer in the work",
-  "type":"manager",
-  "username":"mynameishaheer",
-  "verified_email":false,
-  "verified_phone":false
+    "users": {
+        "user": [
+            {
+                "_id": {
+                    "$oid": "6327612363657e04e395899d"
+                },
+                "email": "shaheer.ahmed12@gmail.com",
+                "follower_count": {
+                    "$numberInt": "45"
+                },
+                "following_count": {
+                    "$numberInt": "40"
+                },
+                "join_date": {
+                    "$date": {
+                        "$numberLong": "1652313600000"
+                    }
+                },
+                "phone": "0343-5301300",
+                "private": false,
+                "status": "active",
+                "string bio": "Hey! I am Shaheer Ahmed and I am the greatest programmer in the work",
+                "type": "manager",
+                "username": "mynameishaheer",
+                "verified_email": false,
+                "verified_phone": false
+            }
+        ]
+    }
 }
