@@ -1,0 +1,25 @@
+{
+    "Followers": {
+        "follower": [
+            {
+                "user_id": "userShaheer001",
+                "follower_ids": [
+                    "userDuaLipa420"
+                ]
+            },
+            {
+                "user_id": "userMoosa002",
+                "follower_ids": [
+                    "userShaheer001",
+                    "userDuaLipa420"
+                ]
+            },
+            {
+                "user_id": "userDuaLipa420",
+                "follower_ids": [
+                    ""
+                ]
+            }
+        ]
+    }
+}
