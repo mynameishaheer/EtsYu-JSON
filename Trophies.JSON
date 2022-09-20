@@ -1,0 +1,14 @@
+{
+    "Trophies": {
+        "trophie": [
+            {
+                "trophie_id": "trop001",
+                "badge-url": "shutterstock.com"
+            },
+            {
+                "trophie_id": "trop002",
+                "badge-url": "playstore.com"
+            }
+        ]
+    }
+}
