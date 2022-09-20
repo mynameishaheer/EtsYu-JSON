@@ -1,0 +1,19 @@
+{
+    "MyPosts": {
+        "myposts": [
+            {
+                "user_id": "userShaheer001",
+                "myposts": [
+                    "post001",
+                    "post003"
+                ]
+            },
+            {
+                "user_id": "userMoosa002",
+                "myposts": [
+                    "post002"
+                ]
+            }
+        ]
+    }
+}
