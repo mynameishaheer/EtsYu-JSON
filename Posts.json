@@ -1,0 +1,50 @@
+{
+    "Posts": {
+        "post": [
+            {
+                "post_id": "post001",
+                "challenge_id": "chal001",
+                "caption": "Hello family!",
+                "media_url": "http://youtube.com",
+                "date_posted": "2022-08-09",
+                "like_count": 32,
+                "comment_ids": [
+                    "comm001",
+                    "comm002"
+                ],
+                "liked_user_ids": [
+                    "userShaheer001",
+                    "userMoosa002"
+                ]
+            },
+            {
+                "post_id": "post002",
+                "challenge_id": "chal001",
+                "caption": "Hello friends!",
+                "media_url": "http://linkedin.com",
+                "date_posted": "2022-09-01",
+                "like_count": 2,
+                "comment_ids": [
+                    "comm012"
+                ],
+                "liked_user_ids": [
+                    "userMoosa002"
+                ]
+            },
+            {
+                "post_id": "post003",
+                "challenge_id": "chal002",
+                "caption": "Hello kids!",
+                "media_url": "http://figma.com",
+                "date_posted": "2022-09-12",
+                "like_count": 0,
+                "comment_ids": [
+                    ""
+                ],
+                "liked_user_ids": [
+                    ""
+                ]
+            }
+        ]
+    }
+}
