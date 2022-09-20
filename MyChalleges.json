@@ -1,0 +1,43 @@
+{
+    "MyChallenges": {
+        "mychallenge": [
+            {
+                "user_id": "userShaheer001",
+                "challenges": [
+                    {
+                        "challenge_id": "chal001",
+                        "start_date": "2022-09-20",
+                        "end_date": "2022-09-21",
+                        "status": "pending",
+                        "win_count": 0,
+                        "loss_count": 0,
+                        "posted": false
+                    },
+                    {
+                        "challenge_id": "chal002",
+                        "start_date": "2022-08-12",
+                        "end_date": "2022-08-24",
+                        "status": "failed",
+                        "win_count": 20,
+                        "loss_count": 40,
+                        "posted": true
+                    }
+                ]
+            },
+            {
+                "user_id": "userMoosa002",
+                "challenges": [
+                    {
+                        "challenge_id": "chal002",
+                        "start_date": "2022-09-12",
+                        "end_date": "2022-09-14",
+                        "status": "win",
+                        "win_count": 50,
+                        "loss_count": 10,
+                        "posted": true
+                    }
+                ]
+            }
+        ]
+    }
+}
