@@ -1,0 +1,27 @@
+{
+    "Comments": {
+        "comment": [
+            {
+                "comment_id": "comm001",
+                "commenter_id": "userShaheer001",
+                "comment": "Hey bro this is amazing",
+                "comment_date": "2022-09-14",
+                "like_count": "2"
+            },
+            {
+                "comment_id": "comm002",
+                "commenter_id": "userMoosa002",
+                "comment": "Hey bro this is cool",
+                "comment_date": "2022-09-15",
+                "like_count": "10"
+            },
+            {
+                "comment_id": "comm012",
+                "commenter_id": "userMoosa002",
+                "comment": "I like this!",
+                "comment_date": "2022-09-11",
+                "like_count": "110"
+            }
+        ]
+    }
+}
