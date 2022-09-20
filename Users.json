@@ -1,56 +1,57 @@
-{
-    "users": {
-        "user": [
-            {
-                "_id": {
-                    "$oid": "6327612363657e04e395899d"
-                },
-                "email": "shaheer.ahmed12@gmail.com",
-                "follower_count": {
-                    "$numberInt": "45"
-                },
-                "following_count": {
-                    "$numberInt": "40"
-                },
-                "join_date": {
-                    "$date": {
-                        "$numberLong": "1652313600000"
-                    }
-                },
-                "phone": "0343-5301300",
-                "private": false,
-                "status": "active",
-                "string bio": "Hey! I am Shaheer Ahmed and I am the greatest programmer in the work",
-                "type": "manager",
-                "username": "mynameishaheer",
-                "verified_email": false,
-                "verified_phone": false
-            },
-                        {
-                "_id": {
-                    "$oid": "6323726473857e04e395899d"
-                },
-                "email": "moosa.hashim@gmail.com",
-                "follower_count": {
-                    "$numberInt": "3"
-                },
-                "following_count": {
-                    "$numberInt": "4"
-                },
-                "join_date": {
-                    "$date": {
-                        "$numberLong": "1365313600000"
-                    }
-                },
-                "phone": "0321-5301300",
-                "private": true,
-                "status": "active",
-                "string bio": "Hey! I am Moosa Hashim and I am the second greatest programmer in the world",
-                "type": "user",
-                "username": "moosah01",
-                "verified_email": true,
-                "verified_phone": false
-            }
-        ]
-    }
+{ 
+    "Users": {
+    "user": [
+      {
+        "user_id": "userShaheer001",
+        "username": "mynameishaheer",
+        "fullname": "Shaheer Ahmed",
+        "email": "shaheer.ahmed12@gmail.com",
+        "phone": "0343-5301300",
+        "type": "manager",
+        "join_date": "2022-07-01",
+        "private": false,
+        "status": "active",
+        "verified_email": false,
+        "verified_phone": false,
+        "bio": "Hey! I am Shaheer Ahmed",
+        "follower_count": "45",
+        "following_count": "40",
+        "total_points": "3500"
+      },
+      {
+        "user_id": "userMoosa002",
+        "username": "moosah01",
+        "fullname": "Moosa Hashim",
+        "email": "moosa.hashim@gmail.com",
+        "phone": "0321-5301300",
+        "type": "user",
+        "join_date": "2022-09-01",
+        "private": true,
+        "status": "active",
+        "verified_email": true,
+        "verified_phone": false,
+        "bio": "Hey! I am Moosa Hashim",
+        "follower_count": "5",
+        "following_count": "10",
+        "total_points": "20"
+      },
+      {
+        "user_id": "userDuaLipa420",
+        "username": "realDuaLipa",
+        "fullname": "Dua Lipa",
+        "email": "dua.lipa@gmail.com",
+        "phone": "",
+        "type": "user",
+        "join_date": "2022-08-01",
+        "private": true,
+        "status": "active",
+        "verified_email": true,
+        "verified_phone": true,
+        "bio": "Hey! I am Dua Lipa",
+        "follower_count": "5000000",
+        "following_count": "50",
+        "total_points": "20000"
+      }
+    ]
+  }
 }
