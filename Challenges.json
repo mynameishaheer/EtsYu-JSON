@@ -1,49 +1,40 @@
 {
-    "challenges": {
+    "Challenges": {
         "challenge": [
             {
-                "_id": {
-                    "$oid": "63276c42dc4a000c71ccc8e5"
-                },
-                "challenge_id": {
-                    "$oid": "632768dda55ceac2e849a22e"
-                },
-                "desc": "Brush your teeth with the opposite end of your toothbrush",
-                "date_added": {
-                    "$date": {
-                        "$numberLong": "1657497600000"
-                    }
-                },
-                "total_accepted": {
-                    "$numberInt": "10"
-                },
-                "total_completed": {
-                    "$numberInt": "2"
-                },
-                "sucessrate": {
-                    "$numberDouble": "0.2"
-                },
-                "points": {
-                    "$numberDouble": "80.0"
-                },
-                "creatorID": {
-                    "$oid": "63276a28a55ceac2e849a232"
-                },
-                "trophieID ": {
-                    "$oid": "63276a3ea55ceac2e849a233"
-                },
+                "challenge_id": "chal001",
+                "creator_id": "userShaheer001",
+                "trophie_id ": "trop001",
+                "description": "Brush your teeth",
+                "date_added": "2022-07-28",
+                "total_accepted": 10,
+                "total_completed": 2,
+                "sucessrate": 0.2,
+                "points": 80,
                 "difficulty": "easy",
                 "acceptance_criteria": {
-                    "votes_needed": {
-                        "$numberInt": "50"
-                    },
-                    "win_%_needed": {
-                        "$numberInt": "80"
-                    },
-                    "time_to_complete_hrs": {
-                        "$numberInt": "2"
-                    },
-                    "additional_req": "A 1 min video is needed to qualify fo r this badge"
+                    "votes_needed": 50,
+                    "win_%_needed": 80,
+                    "time_to_complete_hrs": 2,
+                    "additional_req": "A 1 min video is needed"
+                }
+            },
+            {
+                "challenge_id": "chal002",
+                "creator_id": "userShaheer001",
+                "trophie_id ": "trop002",
+                "description": "Stay awake for 24 hrs",
+                "date_added": "2022-07-28",
+                "total_accepted": 100,
+                "total_completed": 50,
+                "sucessrate": 0.5,
+                "points": 50,
+                "difficulty": "medium",
+                "acceptance_criteria": {
+                    "votes_needed": 100,
+                    "win_%_needed": 90,
+                    "time_to_complete_hrs": 24,
+                    "additional_req": "A 24 min video is needed"
                 }
             }
         ]
