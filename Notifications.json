@@ -1,0 +1,45 @@
+{
+    "Notifications": {
+        "notification": [
+            {
+                "user_id": "userShaheer001",
+                "notifications": [
+                    {
+                        "timestamp": "2022-09-20T00:00:00.000+00:00",
+                        "from_id": "userMoosa002",
+                        "details": "Moosa Hashim commented on your badge",
+                        "type": "comment"
+                    }
+                ]
+            },
+            {
+                "user_id": "userMoosa002",
+                "notifications": [
+                    {
+                        "timestamp": "2022-09-20T00:00:00.000+00:00",
+                        "from_id": "userShaheer001",
+                        "details": "Shaheer Ahmed liked your video",
+                        "type": "like"
+                    },
+                    {
+                        "timestamp": "2022-09-20T00:00:00.000+00:00",
+                        "from_id": "userShaheer001",
+                        "details": "Shaheer Ahmed commented on your video",
+                        "type": "comment"
+                    }
+                ]
+            },
+            {
+                "user_id": "userDuaLipa420",
+                "notifications": [
+                    {
+                        "timestamp": "2022-09-20T00:00:00.000+00:00",
+                        "from_id": "userShaheer001",
+                        "details": "Shaheer Ahmed requested to follow",
+                        "type": "follow_request"
+                    }
+                ]
+            }
+        ]
+    }
+}
