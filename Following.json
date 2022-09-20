@@ -1,0 +1,42 @@
+{
+    "Following": {
+        "following": [
+            {
+                "user_id": "userShaheer001",
+                "following": [
+                    {
+                        "following_id": "userMoosa002",
+                        "req_status": "accepted",
+                        "date_added": "2022-08-01"
+                    },
+                    {
+                        "following_id": "userDuaLipa420",
+                        "req_status": "pending",
+                        "date_added": "2022-08-01"
+                    }
+                ]
+            },
+            {
+                "user_id": "userMoosa002",
+                "following": [
+                    {}
+                ]
+            },
+            {
+                "user_id": "userDuaLipa420",
+                "following": [
+                    {
+                        "following_id": "userMoosa002",
+                        "req_status": "accepted",
+                        "date_added": "2022-08-01"
+                    },
+                    {
+                        "following_id": "userShaheer001",
+                        "req_status": "accepted",
+                        "date_added": "2022-08-01"
+                    }
+                ]
+            }
+        ]
+    }
+}
