@@ -1,0 +1,24 @@
+{
+    "FollowRequests": {
+        "followrequest": [
+            {
+                "user_id": "userShaheer001",
+                "requests_ids": [
+                    ""
+                ]
+            },
+            {
+                "user_id": "userMoosa002",
+                "requests_ids": [
+                    ""
+                ]
+            },
+            {
+                "user_id": "userDuaLipa420",
+                "requests_ids": [
+                    "userShaheer001"
+                ]
+            }
+        ]
+    }
+}
