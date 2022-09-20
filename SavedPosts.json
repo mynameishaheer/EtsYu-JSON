@@ -1,0 +1,31 @@
+{
+    "SavedPosts": {
+        "savedposts": [
+            {
+                "user_id": "userShaheer001",
+                "saved_posts": [
+                    {
+                        "post_id": "post001",
+                        "category": "general",
+                        "save_date": "2022-09-03"
+                    }
+                ]
+            },
+            {
+                "user_id": "userMoosa002",
+                "saved_posts": [
+                    {
+                        "post_id": "post003",
+                        "category": "general",
+                        "save_date": "2022-09-03"
+                    },
+                    {
+                        "post_id": "post002",
+                        "category": "self-posts",
+                        "save_date": "2022-09-19"
+                    }
+                ]
+            }
+        ]
+    }
+}
